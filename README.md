@@ -1,6 +1,6 @@
 ## Olá eu sou a Bryan Jackovski, estudante de TDS!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanEduardoJackovski&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanJackovski&show_icons=true&theme=tokyonight)
 
 Essas são as tecnologias que eu tenho praticado e estudado:
 
